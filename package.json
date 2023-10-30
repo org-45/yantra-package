@@ -1,0 +1,24 @@
+{
+  "name": "yantra-package",
+  "version": "1.0.0",
+  "description": "npm package for yantra project.",
+  "main": "index.js",
+	"type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/org-45/yantra-package.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs"
+  ],
+  "author": "org-45",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/org-45/yantra-package/issues"
+  },
+  "homepage": "https://github.com/org-45/yantra-package#readme"
+}
