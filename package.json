@@ -1,9 +1,9 @@
 {
   "name": "yantra-package",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "npm package for yantra project.",
   "main": "index.js",
-	"type":"module",
+  "type": "module",
   "scripts": {
     "test": "npm run test"
   },
