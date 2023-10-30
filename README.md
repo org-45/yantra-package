@@ -2,7 +2,7 @@
 
 Starter npm package for learners.
 
-How to test it locally ?
+### How to test it locally ?
 
 - mkdir yantra-package-test
 - cd yantra-package-test
@@ -17,6 +17,6 @@ console.log(yantraPackage);
 
 - node test.js
 
-How to contribute it locally ?
+### How to contribute it locally ?
 
 - Using  `npm link` as in https://docs.npmjs.com/cli/v8/commands/npm-link 
