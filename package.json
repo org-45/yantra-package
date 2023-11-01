@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/org-45/yantra-package/issues"
   },
-  "homepage": "https://github.com/org-45/yantra-package#readme"
+  "homepage": "https://github.com/org-45/yantra-package#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
 }
