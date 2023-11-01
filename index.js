@@ -1,3 +1,4 @@
-const helloYantra= "Hello guys. How was your Dashain ?" 
+import helloYantra from "./default.js";
+import getUserData from "./bluebird.js";
 
-export default helloYantra
+export default {helloYantra, getUserData}
